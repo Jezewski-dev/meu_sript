@@ -1,4 +1,4 @@
-# Calculadora_sript
+# calculadora_sript
  
 ## Calculadora
 - Explicação para executar o calculadora.sh: "No terminal, use o comando ./calculadora.sh para executar o script."
